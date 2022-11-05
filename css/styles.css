@@ -1,0 +1,26 @@
+body {
+   background-color: Courier New; 
+   font-family:Georgia ;
+}
+h1 { 
+   color: red;
+}
+h2 {
+   color: black;
+}
+li {
+   color:white;
+   font-size: 15px;
+}
+p {
+   color: Darkblue;  
+}
+b {
+   color: red; 
+}
+a {
+   color:brown;
+}
+span {
+   color:yellow;
+}
